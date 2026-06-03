@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Braces",
+    "supercategory": ""
+  },
+  {
+    "id": 2,
+    "name": "Face",
+    "supercategory": ""
+  },
+  {
+    "id": 3,
+    "name": "Floor of mouth",
+    "supercategory": ""
+  },
+  {
+    "id": 4,
+    "name": "Gums",
+    "supercategory": ""
+  },
+  {
+    "id": 5,
+    "name": "Hard palate",
+    "supercategory": ""
+  },
+  {
+    "id": 6,
+    "name": "Implant",
+    "supercategory": ""
+  },
+  {
+    "id": 7,
+    "name": "Lips",
+    "supercategory": ""
+  },
+  {
+    "id": 8,
+    "name": "Medical equipment",
+    "supercategory": ""
+  },
+  {
+    "id": 9,
+    "name": "Radix",
+    "supercategory": ""
+  },
+  {
+    "id": 10,
+    "name": "Teeth",
+    "supercategory": ""
+  },
+  {
+    "id": 11,
+    "name": "Tongue",
+    "supercategory": ""
+  },
+  {
+    "id": 12,
+    "name": "Cheek",
+    "supercategory": ""
+  }
+]
